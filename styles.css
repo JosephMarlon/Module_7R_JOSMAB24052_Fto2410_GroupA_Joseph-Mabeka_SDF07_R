@@ -498,9 +498,8 @@ header {
     max-width: 1000px;
     margin: 0 auto;
 }
-.portfolio-item-individual img{
-    align-content: center;
-}
+
+
 .portfolio-item-individual p {
     max-width: 600px;
     margin-left: auto;
